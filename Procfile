@@ -1,0 +1,1 @@
+web: gunicorn <soft3>.wsgi --log-file -
